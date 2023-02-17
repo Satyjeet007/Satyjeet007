@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm Satyjeet Patil</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
+# 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning : <br>💬 Ask me about  :<br>⚡ Fun fact  : Am Funny :)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satyjeet007&label=Profile%20views&color=0e75b6&style=flat" alt="satyjeet007" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@sky19309865" target="blank"><img src="https://img.shields.io/twitter/follow/@sky19309865?logo=twitter&style=for-the-badge" alt="@sky19309865" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satyjeet_220) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Skyy) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Sky19309865) 
 
-- ⚡ Fun fact **I Am Funny :)**
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Satyjeet007&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Satyjeet007&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyjeet007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sky19309865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sky19309865" height="30" width="40" /></a>
-<a href="https://instagram.com/satyjeet_220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="satyjeet_220" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@satyjeetpatil803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@satyjeetpatil803" height="30" width="40" /></a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Satyjeet007&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=@Sky19309865)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyjeet007&show_icons=true&locale=en&layout=compact" alt="satyjeet007" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyjeet007&show_icons=true&locale=en" alt="satyjeet007" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Satyjeet007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyjeet007&" alt="satyjeet007" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
